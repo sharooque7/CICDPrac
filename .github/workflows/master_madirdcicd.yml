@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'MadirdCICD'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EDEC35D5ACB49D0B767055EE1A733DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FD2143F11C04586B101847C46ADB044 }}
           package: .
